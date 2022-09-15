@@ -7,6 +7,8 @@ console.log(multiply(10, 2));
 let x = multiply(3, 2);
 console.log(x);*/
 
+//hi
+
 import { halfof, multiply } from "./lib.js";
 console.log(halfof(18));
 console.log(multiply(1,99));
